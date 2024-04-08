@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23.918" height="34.155" viewBox="0 0 23.918 34.155">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M0,34.155,23.918,17.078,0,0Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="ICON" clip-path="url(#clip-path)">
+    <g id="_Icon_Color" data-name="↳ Icon Color" transform="translate(-49.04 -24.921)">
+      <rect id="Rectangle" width="114.17" height="82.642" transform="translate(0 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

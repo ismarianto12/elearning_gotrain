@@ -1,0 +1,3 @@
+.fa-chevron-right, .fa-chevron-left, .fa-angle-left, .fa-arrow-right-long, .fa-angle-right, .fa-play-circle{
+  transform: rotate(180deg);
+}

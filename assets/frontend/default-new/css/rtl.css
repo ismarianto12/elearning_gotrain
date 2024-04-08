@@ -1,0 +1,1388 @@
+/* custom.css */
+.me-5px{margin-left: 5px !important;}
+.me-6px{margin-left: 6px !important;}
+.me-7px{margin-left: 7px !important;}
+.me-8px{margin-left: 8px !important;}
+.me-9px{margin-left: 9px !important;}
+.me-10px{margin-left: 10px !important;}
+.me-11px{margin-left: 11px !important;}
+.me-12px{margin-left: 12px !important;}
+.me-13px{margin-left: 13px !important;}
+.me-14px{margin-left: 14px !important;}
+.me-15px{margin-left: 15px !important;}
+.me-16px{margin-left: 16px !important;}
+.me-17px{margin-left: 17px !important;}
+.me-18px{margin-left: 18px !important;}
+.me-19px{margin-left: 19px !important;}
+.me-20px{margin-left: 20px !important;}
+
+
+.page-link, .page-item a {
+    margin-left: 11px;
+}
+.course-heading-info .info-tag{
+    margin-left: 25px;
+    margin-right: unset;
+}
+.course-heading-info .info-tag i{
+    margin-left: 4px;
+}
+ul.step-down li:after{
+    right: -18px;
+}
+ul.step-down li::before{
+    right: -14px;
+}
+.course-left-side .faq.accordion-button::after{
+    margin-right: unset !important;
+}
+
+
+.curriculum-accordion .accordion-button.collapsed::after{
+    margin-right: -37px;
+}
+.curriculum-accordion .accordion-button::after{
+    margin-right: -37px;
+}
+
+.h-1-banner .h-1-banner-text h1 span::before{
+    top: 45px;
+    right: 69px;
+}
+.category-hide-icon{
+    left: 10px;
+}
+.h-2-instructor .h-2-instructor-full .h-2-instructor-image img{
+    right: 5%;
+}
+
+
+.header-search-icon {
+    right: 11px;
+}
+
+.search-input{
+  padding: 7px 38px 7px 6px;
+  margin-right: 4px;
+}
+
+.btn-toggle::after {
+  margin-right: auto;
+  margin-left: unset;
+  transform: rotate(180deg);
+}
+
+.btn-toggle-nav a {
+  margin-right: 1.25rem;
+}
+
+
+
+.courses-card .courses-card-body .review-btn{
+    margin-right: auto;
+}
+.courses-card .courses-card-body .courses-text .ellipsis-line-2{
+    margin-right: 0px;
+}
+.course-right-section .course-card .enrol .icon img{
+    margin: 0px 0px 0px 18px;
+}
+.course-left-side .accordion-button{
+    padding: 0px 40px 0px 0px;
+}
+.courses-card .courses-card-body .courses-text{
+    padding: 15px 15px 10px 18px !important;
+}
+/* custom.css ENDED */
+
+
+
+
+/* Manually */
+.fa-chevron-right, .fa-chevron-left, .fa-angle-left, .fa-arrow-right-long, .fa-angle-right, .fa-play-circle{
+    transform: rotate(180deg);
+}
+.header-search-icon{
+    left: unset;
+    right: 11px;
+}
+.search-input{
+    padding: 7px 38px 7px 6px;
+}
+.menu_pro_wish, .menu_pro_tgl_bg{
+    left: 0px;
+    right: auto;
+}
+.menu_pro_tgl_bg ul li:hover a{
+    margin-right: 10px;
+}
+.menu_pro_tgl_bg ul li a i{
+    margin: 0 0 0 10px !important;
+}
+.dropdown-submenu .has-sub-category{
+    float: left;
+}
+.main-nav-wrap > li > ul ul{
+    right: 250px;
+    left: unset;
+}
+.h-1-banner .h-1-banner-text h1 span::after{
+    transform: rotate(220deg);
+}
+.sing-up-right .form-control{
+  text-align: end;
+}
+/* Manually ENDED */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.mood-control {
+	right: unset;
+	left: 0;
+	border-top-right-radius: unset;
+	border-bottom-left-radius: unset;
+    border-top-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+.pr-5{
+  padding-right: unset;
+  padding-left: 5px;
+}
+.menubar .right-menubar li{
+    padding: 3px 6px 7px 13px;
+}
+.menubar .right-menubar .menu_number{
+  right: unset;
+  left: 7px;
+}
+.menu_pro_tgl_bg{
+  right: unset;
+  left: 0;
+}
+.path-pos::after {
+  right: unset;
+  left: -12px;
+}
+.menubar .right-menubar .menu_pro_tgl_bg ul li {
+	margin-right: -23px;
+	margin-left: -15px;
+}
+.menu_pro_tgl-2div {
+	margin-right: 9px;
+	margin-left: unset;
+}
+.menubar .right-menubar .menu_pro_tgl_bg ul li a i{
+  margin: 0 0 0 10px;
+}
+.menu_pro_tgl_bg ul li a{
+  margin-right: 7px;
+  margin-left: unset;
+}
+.menu_pro_tgl_bg ul li a i{
+  margin-left: 8px;
+  margin-right: unset;
+}
+.menu_pro_tgl_bg ul li:hover a{
+  margin-right: 10px;
+  margin-left: unset;
+}
+.menu_pro_tgl_bg ul li:hover:after{
+  right: 0;
+  left: unset;
+}
+.menu_pro_wish{
+  left: 0;
+  right: unset;
+}
+.menu_pro_cart{
+  left: 0px;
+  right: unset;
+}
+.menu_pro_wish::after {
+	left: 13px;
+	right: unset;
+}
+.menu_pro_cart .menu_pro_wish-flex img{
+  margin-left: 10px;
+  margin-right: unset;
+}
+.menu_pro_wish-f-b .prcd a{
+  padding: 7px 14px 7px 17px;
+}
+.cart-minus {
+	left: 13px;
+	right: unset;
+}
+.menu_pro_cart .maines {
+  left: 16px;
+  right: unset;
+}
+.menu_pro_cart .maines-2:after{
+  right: 2px;
+  left: unset;
+}
+.menu_pro_cart .path_pos_wish-2::after{
+  left: 3px;
+  right: unset;
+}
+.dropdown-submenu .dropdown-menu {
+  right: 100%;
+  left: unset;
+}
+.icons {
+	padding-left: 8px;
+	padding-right: unset;
+}
+.main-nav-wrap > li > ul ul {
+	right: 250px;
+	left: unset;
+}
+.text-cat{
+  margin-right: 13px;
+  margin-left: unset;
+}
+.dropdown-submenu .dropdown-menu {
+  right: 107%;
+  left: unset;
+  padding: 8px 11px 6px 16px;
+}
+.search-btnh i {
+  right: 9px;
+  left: unset;
+}
+.hoverMenuSearch .form-control{
+  padding: 10px 33px 10px 8px;
+}
+.hoverSearch{
+  left: 110px;
+  right: unset;
+}
+.search-control {
+  left: 0;
+  right: unset;
+}
+.menu-search .form-control {
+  padding: 14px 36px 13px 0px;
+}
+.menu-search .search-btn i {
+	right: 13px;
+	left: unset;
+}
+.menu-search-icon {
+  right: 9px;
+  left: unset;
+}
+.antry-col .antry-link {
+  padding: 10px 14px 10px 10px;
+}
+.antry-submenu li a {
+	padding:7px 9px 7px 0;
+}
+.h-1-banner .h-1-banner-text h1 span::before {
+	left: 0;
+	right: unset;
+}
+.mobile-view-offcanves .btn-close {
+  left: 20px;
+  right: unset;
+}
+.offcanves-profile .user-img img {
+	margin-left: 15px;
+	margin-right: unset;
+}
+.inline-form {
+  right: -13px;
+  left: 20px;
+}
+.inline-form .mobile-search {
+	left: unset;
+	right: 0;
+	margin-right: -20px;
+	margin-left: left;
+}
+.inline-form .search-btn {
+	left: 5px;
+	right: unset;
+}
+.will-learn li {
+  padding-right: 15px;
+  padding-left: unset;
+}
+.will-learn li::after {
+	right: 0px;
+	left: unset;
+}
+.course-meta .badge{
+  margin-left: 10px;
+  margin-right: unset;
+}
+  .search-option .submit-cls {
+    left: 12px;
+    right: unset;
+  }
+.search-option .submit-cls i{
+  margin-left: 7px;
+  margin-right: unset;
+}
+.banner-card-1 p {
+    margin-right: 16px;
+    margin-left: unset;
+  }
+  .banner-card-1 h6{
+    margin-right: 16px;
+    margin-left: unset;
+  }
+
+.courses h1 span::before{
+    right: 89px;
+    left: unset;
+}
+.courses-card .courses-card-body .courses-text h5{
+    padding-right: 7px;
+}
+.courses-card .courses-card-body .courses-text .review-icon p{
+    padding-right: 5px;
+    padding-left: unset;
+}
+.courses-card-body .courses-text .courses-price .courses-price-right i{
+    padding-left: 5px;
+    padding-right: unset;
+}
+.courses-card .courses-card-body .courses-card-image .courses-card-image-text{
+    left: 0;
+    right: unset;
+}
+.courses-card .courses-card-body .courses-card-image .courses-card-image-text::after{
+  clip-path: polygon(0% 0%, 0% 50%, 0% 100%, 100% 100%, 10% 50%, 100% 0%);
+  right: -19px;
+  left: unset;
+}
+.courses-card .courses-card-body .courses-card-image .text-2::after{
+    right: -19px;
+    left: unset;
+}
+.courses-card .courses-card-body .courses-card-image .text-3::after{
+    right: -19px;
+    left: unset;
+}
+
+.top-categories h1::after{
+    left: 180px;
+    right: unset;
+}
+.category-product .category-product-body{
+  width: unset;
+  display: block;
+}
+.category-product .category-product-body .cate-icon{
+  text-align: right !important;
+}
+.category-product .category-product-body:hover h5{
+    text-align: right !important;
+}
+ .category-hide-icon{
+    left: 10px !important;
+    right: unset;
+    padding-left: 12px;
+    padding-right: unset;
+ }
+ .expert-instructor .instructor-card .instructor-card-img::after {
+  right: 0;
+  left: unset;
+  border-top-left-radius: 60px;
+  border-bottom-right-radius: 33px;
+  border-bottom-left-radius: 7px;
+}
+.expert-instructor .instructor-card .instructor-card-text .icon-div-2{
+    left: 50%;
+    right: unset;
+}
+.lattest-news form .form-control{
+    text-align: end;
+}
+
+
+
+
+
+
+
+
+
+
+  .qustion .accordion-body {
+    padding: 0 0 22px 6px;
+  }
+
+  .qustion .accordion-item:first-of-type .accordion-button {
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+  }
+.owl-theme .owl-nav {
+    text-align: right !important;
+  }
+  .footer ul{
+    padding-right: 0;
+    padding-left: unset;
+  }
+  .footer p{
+    padding-left: 55px;
+    padding-right: unset;
+  }
+  .form-arrow {
+    left: 0;
+    right: unset;
+  }
+  .lattest-news .search-btn i{
+    left: 10px;
+    right: unset;
+  }
+  .footer .copyright .footer-privacy  a{
+    margin: 6px 0px  14px 38px;
+  }
+  .copyright p{
+    text-align: left !important;
+  }
+  .book-img img{
+    float: left !important;
+  }
+  .breadcrumb span{
+    margin-right: 10px;
+    margin-left: unset;
+  }
+  .breadcrumb i{
+    margin-right: 9px;
+    margin-left: unset;
+  }
+.column {
+  float: right !important;
+}
+.list-card-control .btn{
+  margin-left: 4px;
+  margin-right: unset;
+}
+.select-box{
+  left: right;
+  float: unset;
+}
+.grid-view-body p {
+  margin-right: 10px;
+  margin-left: unset;
+}
+.form-select {
+  padding: .375rem .75rem .375rem 2.25rem;
+}
+.grid-view-body .courses-card .courses-card-body .courses-text .review-icon p {
+  padding-right: 0;
+  padding-left: unset;
+  margin-right: 0;
+  margin-left: unset;
+}
+.grid-view-body .courses-card .courses-text .review-icon span{
+  padding: 6px 3px 5px 8px;
+  margin-right: 45px;
+  margin-left: unset;
+}
+.grid-view-body .courses-price-left p {
+  margin-right: 0;
+  margin-left: unset;
+}
+.webdesign .form-check-label .try{
+  margin-right: 20px;
+  margin-left: unset;
+}
+.course-category h3::after{
+  right: 0;
+  left: unset;
+}
+.course-category .form-check {
+  padding: 14px 23px 0px 0px;
+}
+.form-check-icon ul{
+  padding-right: 0;
+  padding-left: unset;
+}
+.courses-list-view-card-body .courses-text p{
+  margin-right: 0;
+  margin-left: unset;
+}
+.courses-list-view-card-body .courses-card-image .courses-icon i{
+  left: 7px;
+  right: unset;
+}
+.courses-details .courses-details-1st-text  .clock i{
+ padding: 5px 0px 15px 8px;
+}
+.courses-details .courses-details-1st-text .user i{
+  padding: 5px 0px 15px 8px;
+}
+.courses-details .courses-details-1st-text .icon ul li{
+margin-left: 8px;
+margin-right: unset;
+}
+.course-decription li .nav-link:after{
+  right: 0;
+  left: unset;
+}
+.ac-lecture li a span i {
+  margin-left: 14px;
+  margin-right: unset;
+}
+.course-right-section .course-card .card-img .card-video-icon{
+  right: 41%;
+  left: unset;
+}
+.course-right-section .course-card .enrol .icon img{
+  margin: 0px 0px 8px 18px;
+}
+.courses-card-image .courses-icon i{
+  left: 7px;
+  right: unset;
+}
+.course-left-side .accordion-button::after {
+  margin-right: -35px;
+  margin-left: unset;
+}
+
+.antry-acordion .accordion-button:not(.collapsed)::after {
+  right: 60px;
+  left: unset;
+}
+.course-left-side .accordion-button{
+  padding: 0px 43px 0px 0px;
+}
+.accordion-body-2 .accordion-body-video .icon i{
+  padding: 8px 13px 9px 10px;
+}
+.instructor{
+  margin-right: 30px;
+  margin-left: unset;
+}
+.instructor .instructor-text h2{
+  margin-right: 6px;
+  margin-left: unset;
+}
+.instructor .instructor-text p{
+  margin: 5px 6px 13px 3px;
+}
+.instructor-student-feed-back h1:after{
+  right: 0;
+  left: unset;
+}
+.student-feed-back-text h6{
+  margin-right: 13px;
+  margin-left: unset;
+}
+.student-feed-back-text p{
+  margin-right: 13px;
+  margin-left: unset;
+}
+.student-feed-back-text .icon{
+  margin-right: 13px;
+  margin-left: unset;
+}
+.student-feed-back-text a{
+  margin-right: 13px;
+  margin-left: unset;
+}
+.comment .rating .icon{
+  margin-right: 10px;
+  margin-left: unset;
+}
+.comment .rating .icon i{
+  margin-right: 3px;
+  margin-left: unset;
+}
+.course-decription-2 .instructor-text p {
+  margin: 5px 6px 13px 3px;
+}
+.course-decription-2 .student-feed-back-text p{
+  margin-right: 13px;
+  margin-left: unset;
+}
+.course-decription-2 .student-feed-back-text .std{
+  margin-right: 13px;
+  margin-left: unset;
+}
+.c-d-3-banner img{
+  right: 81px;
+  left: unset;
+}
+.c-d-3-banner .card-video-icon i{
+  right: 50%;
+  left: unset;
+}
+.cose-p-3-r .course-card .ammount {
+  padding: 20px 10px 1px 20px;
+}
+.include-icon i{
+  margin-left: 12px;
+  margin-right: unset;
+}
+.include-icon img{
+  margin-left: 12px;
+  margin-right: unset;
+}
+.course-category .webdesign ul{
+  padding-right: 20px;
+  padding-left: unset;
+}
+.blog-body .top .profile-img img{
+  margin: 0px 0px 12px 12px;
+}
+.blog-body .top .profile-img a h6{
+  margin: 4px 0px 12px 20px;
+}
+.blog-body .top .profile-img p{
+  margin: 2px 0px 12px 20px;
+}
+.blog-body .top ul {
+  padding-right: 8px;
+  padding-left: unset;
+}
+.blog-body .top ul li::before {
+  right: -14px;
+  left: unset;
+}
+.blog-body .top ul li::after {
+  right: -18px;
+  left: unset;
+}
+.reply{
+  margin-right: 50px;
+  margin-left: unset;
+}
+.search .search-bar i{
+  right: 11px;
+  left: unset;
+}
+.blog-body .right-section .title h4:after{
+  right: 0;
+  left: unset;
+}
+.blog-body .right-section .categories ul {
+  padding-right: 0;
+  padding-left: unset;
+}
+.blog-body .right-section .categories ul li a::after{
+  right: 0px;
+  left: unset;
+}
+.blog-body .right-section .categories ul li a:hover{
+  padding-right: 15px;
+  padding-left: unset;
+}
+.blog-body .right-section .post p i{
+  margin-left: 10px;
+  margin-right: unset;
+}
+.blog-body .right-section .right-tag a{
+  margin: 0px 0px 15px 12px;
+}
+.blog-body .right-section .right-tag {
+  padding-right: 0;
+  padding-left: unset;
+}
+.sing-up-right .form-control  {
+  padding: 14px 48px 13px 0px;
+  text-align: right;
+}
+.sing-up-right i{
+  left: unset;
+  right: 18px;
+}
+.sing-up-right i.fa-eye {
+  right: unset !important;
+  left: 18px !important;
+}
+.sing-up-right .eye-icon i{
+  right: 93%;
+  left: unset;
+}
+.sing-up-right .log-in .btn {
+  margin-right: 0;
+  margin-left: unset;
+}
+.sing-up-right .another p a{
+  margin-right: 10px;
+  margin-left: unset;
+}
+.sing-up-right .another h5::after{
+  right: 0;
+  left: unset;
+}
+.sing-up-right .another h5::before{
+  left: 0;
+  right: unset;
+}
+.sing-up-right .resend-code .form-control {
+  margin: 0px 2px 8px 21px;
+}
+.sing-up-right .resend-code .btn {
+    margin-right: 0;
+    margin-left: unset;
+}
+.instructor-1 .instructor-video .card-video-icon i{
+  right: 50%;
+  left: unset;
+  padding: 14px 19px 16px 16px;
+}
+.instructor-1 .instructor-about .rating {
+  left: right;
+  float: unset;
+}
+.instructor-1 .instructor-about .about-text ul li a{
+  margin: 0px 0px 14px 16px;
+}
+.instructor-1 .instructor-about .about-text ul{
+  padding-right: 0;
+  padding-left: unset;
+}
+.instructor-1 .instructor-about .skill .skill-point .skill-point-1{
+  margin: 0px 1px 0px 66px;
+}
+.instructor-1 .instructor-about .skill .skill-point .skill-point-1::after{
+  right: -35px;
+  left: unset;
+}
+.instructon-contact .instructon-icon i{
+  margin: 8px 17px 12px 30px;
+}
+.instructor-right .instructor-msg a i{
+  margin-left: 10px;
+  margin-right: unset;
+}
+.instructor-right .instructor-msg .btn{
+  margin-right: 0;
+  margin-left: unset;
+}
+
+.wish-list-body .wish-list-search .search-btn i{
+  right: 15px;
+  left: unset;
+}
+.wish-list-body .wish-list-search .form-control {
+  padding: 14px 48px 13px 0px;
+}
+.wish-list-course .my-cosre{
+  padding: 10px 20 10px 0px;
+}
+.wish-list-course .my-cosre a{
+  margin-right: 18px;
+  margin-left: unset;
+}
+ .message .conversation .form-control {
+  padding: 9px 38px 11px 0px;
+ }
+.message .conversation .search-btn i {
+  right: 14px;
+  left: unset;
+}
+.message .conversation .conversation-1 .conversation-img p{
+  left: -1px;
+  right: unset;
+}
+.message .conversation .conversation-1 .conversation-name{
+  margin-right: 10px;
+  margin-left: unset;
+}
+.conversation-text .conversation-msg-full .parrent{
+  margin-right: 20px;
+  margin-left: unset;
+}
+.conversation-text .conversation-msg-full .parrent .parrent-text{
+  margin-right: 10px;
+  margin-left: unset;
+}
+.conversation-text .conversation-msg-full .parrent .child-name p{
+  margin-right: 16px;
+  margin-left: unset;
+}
+.conversation-text .conversation-msg-full .parrent .child-text .child-description p{
+  margin-left: 10px;
+  margin-right: unset;
+}
+.conversation-text .conversation-msg-full .parrent .child-text{
+  margin-right: 10px;
+  margin-left: unset;
+}
+.conversation-fulllll-body{
+  padding: 0px 18px 9px 0px;
+}
+.child-icon a{
+  margin-left: 30px;
+  margin-right: unset;
+}
+.conversation-msg-full {
+  margin-right: -12px;
+  margin-left: unset;
+}
+.conversation-sending{
+  margin-left: 15px;
+  margin-right: unset;
+}
+.conversation-sending .form-control {
+  padding: 21px 20px 19px 0px;
+}
+.conversation-sending .sending{
+  left: 15px;
+  right: unset;
+}
+.conversation-sending .search-btn{
+  left: 110px;
+  right: unset;
+}
+.purchase-body h3{
+  margin-right: 16px;
+  margin-left: unset;
+}
+ .profile .profile-parrent .profile-child .child-text{
+  margin-right: 20px;
+  margin-left: unset;
+ }
+ .profile .profile-parrent .profile-child-btn a{
+  margin-right: 10px;
+  margin-left: unset;
+ }
+.profile-input{
+  margin-left: 74px;
+  margin-right: unset;
+}
+.profile-input .from-control-2{
+  margin-right: 10px;
+  margin-left: unset;
+}
+.profile-input-3{
+  margin-right: 5px;
+  margin-left: unset;
+}
+.profile-input-3{
+  margin-left: 74px;
+  margin-right: unset;
+}
+.profile-font-icon{
+  margin-right: 15px;
+  margin-left: unset;
+}
+.profile-font-icon i{
+  margin-left: 12px;
+  margin-right: unset;
+}
+.profile-input-4 .form-control {
+  margin-right: 0;
+  margin-left: unset;
+}
+.profile-input-6{
+  margin-left: 0;
+  margin-right: unset;
+}
+.faq .faq-accrodion{
+  margin-right: 20px;
+  margin-left: unset;
+}
+.faq-accrodion .accordion .accordion-button{
+  padding-right: 0;
+  padding-left: unset;
+}
+.faq-accrodion .accordion .accordion-body {
+  padding-right: 0;
+  padding-left: unset;
+}
+.price-icon img{
+  margin-left: 8px;
+  margin-right: unset;
+}
+.price-card .price-card-full-body .ammount{
+  padding: 10px 32px 7px 0px;
+}
+.price-card .price-card-full-body .ammount h6{
+  margin-right: 7px;
+  margin-left: unset;
+}
+.contact-page .contact-image::after{
+  right: -15px;
+  left: unset;
+}
+.contact-page .office-hour .icon i{
+  margin-left: 20px;
+  margin-right: unset;
+}
+
+
+.invoice-dec .table > :not(caption) > * > * {
+  padding-right: 0;
+  padding-left: unset;
+}
+.invoice-dec i{
+  padding-left: 5px;
+  padding-right: unset;
+}
+ .invoice-2 .invioce-logo img{
+  float: right !important;
+ }
+.invoice-2 .invoice-total h4{
+  text-align: left !important;
+}
+
+.invoice-2 .invoice-total  h5{
+  margin-left: 10px;
+  margin-right: unset;
+}
+.invoice-2 .invoice-total  p{
+  float: right !important;
+}
+.invoice-2-last-total::after{
+  left: 0;
+  right: unset;
+}
+.invoice-right-total .invoice-ml{
+  margin-right: 50px;
+  margin-left: unset;
+}
+.about-us h4 img{
+  margin-left: 16px;
+  margin-right: unset;
+}
+.about-us .about-us-r-1{
+ left: 50px;
+ right: unset;
+}
+.about-us .about-us-r-2{
+ right: 0;
+ left: unset;
+}
+.about-us .about-star-img .about-star-1{
+  right: 68px;
+  left: unset;
+}
+.about-us .about-star-img .about-star-2{
+  left: 46px;
+  right: unset;
+}
+.about-us  .about-star-img-2 .about-star-1{
+  right: 16%;
+  left: unset;
+}
+.about-us  .about-star-img-2 .about-star-2{
+  left: 16%;
+  right: unset;
+}
+.about-us  .about-star-img-2 .about-star-3{
+  left: 10%;
+  right: unset;
+}
+.about-us  .about-star-img-2 .about-star-4{
+  right: 14%;
+  left: unset;
+}
+.about-us  .about-star-img-2 .about-star-5{
+  right: 27%;
+  left: unset;
+}
+
+.course-play-body .course-play-left-body .body-1 a{
+  margin-left: 16px;
+  margin-right: unset;
+}
+.course-play-body .course-play-left-body .video .card-video-icon{
+  margin-left: 10px;
+  margin-right: unset;
+}
+.course-play-right .course-play-video .icon .card-video-icon{
+  right: 45%;
+  left: unset;
+}
+.course-play-right .review-icon ul {
+  padding-right: 0;
+  padding-left: unset;
+}
+
+.course-play-right .review-icon ul li i{
+  margin-left: 7px;
+  margin-right: unset;
+}
+.course-play-right .review-icon ul li a{
+  margin-right: 20px;
+  margin-left: unset;
+}
+.course-play-right .profile .text{
+  margin-right: 20px;
+  margin-left: unset;
+}
+.course-play-tab .nav-tabs .nav-link {
+  margin-left: 38px;
+  margin-right: unset;
+}
+
+.course-play-tab .course-search .form-control {
+  padding: 14px 0px 13px 48px;
+}
+.course-play-tab .course-search .search-btn i {
+  right: 15px;
+  left: unset;
+}
+.course-play-tab .course-text p{
+  margin-left: 0;
+}
+.course-play-tab .like .like-left{
+  margin-left: 10px;
+}
+.course-play-tab .course-nav-profile h4{
+  margin-left: 12px;
+}
+.course-play-tab .course-nav-profile p{
+  margin-left: 14px;
+}
+.compare-card .card a i{
+  margin-left: 8.4px;
+}
+.compare-table .table  td .level{
+  margin-left: 16px;
+  margin-right: unset;
+}
+.compare-table .table th i{
+  margin-left: 16px;
+  margin-right: unset;
+}
+.compare-table .table td i{
+  margin-left: 16px;
+  margin-right: unset;
+}
+.compare-table .table .compare-star i{
+  margin-left: 5px;
+  margin-right: unset;
+}
+.compare-table .table td img{
+  margin-left: 16px;
+  margin-right: unset;
+}
+
+.compare-table .table td ul li p{
+  margin-right: 17px;
+  margin-left: unset;
+}
+.first-col {
+  right: 0px;
+  left: unset;
+}
+.compare-fixed i{
+  margin-left: 5px;
+  margin-right: unset;
+}
+.compare-fixed .card-head img{
+  margin-left: 16px;
+  margin-right: unset;
+}
+.compare-fixed .large-img img{
+  margin-left: 0;
+  margin-right: unset;
+}
+.compare-fixed .compare-star i{
+  margin-left: 2px;
+  margin-right: unset;
+}
+
+.h-2-banner .h-2-banner-text .h-2-search-bar .form-control {
+  padding: 22px 23px 25px 95px;
+}
+.h-2-banner .h-2-banner-text .h-2-search-bar .search-btn{
+  left: 10px;
+  right: unset;
+}
+.h-2-instructor .h-2-instructor-full .h-2-instructor-image img{
+  right: 10%;
+  left: unset;
+}
+.h-2-instructor .h-2-instructor-full .h-2-instructor-image .icon{
+  left: 0;
+  right: unset;
+}
+.h-2-clients-review-carousel .h-2-carousel-parrent .child-2{
+  margin-right: 13px;
+  margin-left: unset;
+}
+.h-3-banner-text p{
+  margin-right: 16px;
+  margin-left: unset;
+}
+.h-3-banner-text p:after{
+  right: -16px;
+  left: unset;
+}
+
+.h-3-bannar-card img{
+  margin-left: 16px;
+  margin-right: unset;
+}
+.sidebar-arrow::after {
+	left: 7px;
+    right: unset;
+}
+.testimonials-slide-author .slick-prev{
+  right: 0;
+  left: unset;
+}
+.testimonials-slide-author .slick-next {
+  left: 0;
+  right: unset;
+}
+.overflow-area {
+	right: 0;
+    left: unset;
+} 
+.h-3-about .h-3-about-content ul{
+  padding-right: 0;
+  padding-left: unset;
+}
+.h-3-about .h-3-about-content ul li a img{
+  margin-left: 16px;
+  margin-right: unset;
+}
+
+.h-3-courses h1 strong:after{
+  left: -12px;
+  right: unset;
+}
+.h-3-courses .h-3-banner-button {
+  float: left !important;
+}
+
+.h-3-top-categories .category-product .category-product-body h5{
+  text-align: right !important;
+}
+.h-3-top-categories .category-product .category-product-body p{
+  text-align: right !important;
+}
+.h-3-top-categories .category-product i {
+  float: right !important;
+  padding-right: 5px;
+  padding-left: unset;
+}
+.h-3-top-categories .category-product .category-product-body {
+  padding-right: 20px;
+  padding-left: unset;
+}
+
+.h-3-expert-instructor .h-3-expart-1-text a{
+  margin-left: 20px;
+  margin-right: unset;
+}
+.h-3-blog-card-full-body .h-3-blog-card-body:after{
+  right: 0;
+  left: unset;
+}
+.h-3-blog-overlay-2{
+  padding-right: 25px;
+  padding-left: unset;
+}
+.privacy-policy img{
+  margin-right: 20px;
+  margin-left: unset;
+}
+.my-course-1-full-body .my-course-1-full-body-card .my-course-1-text{
+  margin-right: 26px;
+  margin-left: unset;
+}
+.my-course-1-lesson-text .icon-1 p{
+  margin-right: 8px;
+  margin-left: unset;
+}
+.my-course-1-lesson-text .icon-1{
+  margin-left: 30px;
+  margin-right: unset;
+}
+.my-course-1-last .icon-img img{
+  margin-right: 16px;
+  margin-left: unset;
+}
+.my-course-1-last .icon-img .star i{
+  margin-right: 5px;
+  margin-left: unset;
+}
+.my-course-1-skill p{
+  margin-right: 15px;
+  margin-left: unset;
+}
+
+
+
+
+
+.pl-20{
+  padding-right: 20px;
+  padding-left: unset;
+}
+.s_Sidebar_title_one.s_bar::before{
+  right: 0;
+  left: unset;
+}
+.s_Sidebar_checkbox_one label{
+  padding-right: 5px;
+  padding-left: unset;
+}
+.s_show_more{
+  margin-right: 20px;
+  margin-left: unset;
+}
+.s_search input{
+  padding: 10px 48px 9px 10px;
+}
+.s_search span{
+  right: 20px;
+  left: unset;
+}
+.ebook-item-one .status{
+  left: 0;
+  right: unset;
+}
+.s_list_one li{
+    padding-left: 27px;
+}
+.s_list_one li::before {
+  right: 5px;
+  left: unset;
+}
+.s_list_one li::after {
+  right: 0;
+  left: unset;
+}
+.sbundle-items::before{
+  right: 49.8%;
+  left: unset;
+}
+
+
+
+
+
+
+
+
+
+
+
+.sbundle-items .bundle-body{
+  padding-left: 16px;
+  padding-right: unset;
+}
+.sTutor-details .subtitle{
+  padding-right: 12px;
+  padding-left: unset;
+}
+.sTutor-details .subtitle::before{
+  right: 0;
+  left: unset;
+}
+.sTutor-about .item::before{
+  right: -50px;
+  left: unset;
+}
+.schedule-slide-month .slick-prev{
+  right: auto;
+  left: 31px;
+}
+.schedule-slide-month .slick-next{
+  left: 0;
+  right: unset;
+}
+.schedule-slide-month .slick-list{
+  padding-right: 0 !important;
+  padding-left: unset;
+  margin-right: 20px;
+  margin-left: unset;
+}
+.speech-item-content .inner .title::before {
+  right: 0;
+  left: unset;
+}
+.course-meta span i{
+    margin-left: 5px;
+    margin-right: unset;
+}
+
+.toast-top-right {
+    top: 12px;
+    left: 12px;
+    right: unset;
+}
+.form-section .cheack-box .form-check-input{
+  margin-left: 10px;
+  margin-right: unset;
+}
+.form-check{
+  padding-right: unset;
+  padding-left: 10px;
+}
+.nice-select li, .nice-select li{
+  text-align: right !important;
+}
+.courses-list-view-card .courses-list-view-card-body .courses-card-image img, .courses-list-view-card .courses-list-view-card-body .courses-text{
+  border-radius: 0px !important;
+}
+.webui-popover-content .course-title, .webui-popover-content .last-update, .webui-popover-content h6, .webui-popover-content li, .webui-popover-content .course-subtitle{
+  text-align: right;
+}
+.courses-card .courses-card-body .courses-text p del{
+  margin-right: 5px;
+}
+.cart-page .cart-table a{
+  margin-right: 20px;
+}
+.cart-page .cart-table .cart-table-image img{
+  margin-right: 0px;
+  padding-left: 20px;
+}
+.cart-page .cart-table .table td{
+  padding-right: 0px;
+  padding-left: 5px;
+}
+.radius-end-8{
+  border-radius: 8px 0px 0px 8px !important;
+}
+input{
+  text-align: right;
+}
+.instructor-1 .instructor-about .rating .rating-point{
+  float:left;
+}
+.c-border{
+  border-right: 1.5px solid #6e798a2e !important;
+}
+.input-group-text{
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-right: 1px solid #d1d3de;
+}
+.owl-nav{
+  display: none !important;
+}
+.owl-stage-outer{
+ position:relative;
+ overflow:hidden;
+ -webkit-transform:translate3d(0,0,0);
+ direction: ltr;
+}
+.owl-carousel{
+ direction: ltr !important;
+}
+.category-product .category-product-body{
+  margin: 10px 0px !important;
+}

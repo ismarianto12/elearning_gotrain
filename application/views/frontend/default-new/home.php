@@ -1,0 +1,1 @@
+<?php include get_frontend_settings('home_page').'.php'; ?>
